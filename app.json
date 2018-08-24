@@ -1,0 +1,17 @@
+{
+   "expo": {
+    "name": "ReactNativeApp",
+    "version": "1.0.0",
+    "slug": "react-native-app",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "de.davidschuld.reactnativeapp"
+    },
+	"android": {
+	   "package": "de.davidschuld.reactnativeapp",
+	   "config": {
+		  "googleMaps": { "apiKey": "AIzaSyCRAc-7JKBYnYzhVU3Y1QgURAsJ7sUudc4" }   
+	   }
+	}
+   }
+ }
